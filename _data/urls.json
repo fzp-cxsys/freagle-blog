@@ -23,8 +23,9 @@
   },
   {
     "text": "Github",
-    "url": "",
-    "icon": "fa-github"
+    "url": "https://github.com/fzp-cxsys",
+    "icon": "fa-github",
+    "target": _blank
   },
   {
     "text": "XML Feed",

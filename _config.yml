@@ -1,9 +1,9 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: 不问归期
+description: 我的个人博客
+author: Freagle
 logo: /static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+github: https://github.com/fzp-cxsys
+about: 生活不至于眼前的苟且，还有诗和远方。
 
 baseurl: ""
 url: "https://codeasashu.github.io/hcz-jekyll-blog"
